@@ -1,0 +1,7 @@
+{
+  "name": "今日爆火：全领域流行趋势汇集",
+  "description": "一个集成了电影、音乐、艺术、文学、自媒体及财经领域的每日最火内容追踪平台，利用 Gemini API 实时分析全球与本地流行趋势。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
